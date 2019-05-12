@@ -27,7 +27,7 @@ function App() {
             </Navigation>
         </Drawer>
         <Content>
-            <div className="page-content" />
+            <div className="page-content"/>
             <Main/>
         </Content>
     </Layout>
